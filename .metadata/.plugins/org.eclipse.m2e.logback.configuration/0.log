@@ -1058,3 +1058,210 @@ error: unable to start editor 'echo'
 2017-03-11 18:43:50,205 [Worker-236] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
 2017-03-11 18:43:50,205 [Worker-236] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
 2017-03-11 18:43:50,209 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 19:28:43,075 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 19:28:43,174 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-11 19:28:43,497 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 19:28:43,503 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-03-11 19:28:43,541 [Worker-249] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-11 19:28:43,541 [Worker-249] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-11 19:28:43,550 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 22:47:04,010 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 22:47:04,986 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 22:47:05,001 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 22:47:05,056 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:08:00,422 [Worker-272] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-11 23:08:25,837 [Worker-272] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:08:25,874 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:08:25,882 [Worker-272] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:08:25,886 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:08:25,887 [Worker-272] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-11 23:08:25,888 [Worker-272] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-11 23:08:25,906 [Worker-272] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:08:30,677 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:08:30,680 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-11 23:08:30,689 [Worker-274] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:08:30,690 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-03-11 23:12:22,275 [Worker-268] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-11 23:12:24,176 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:12:24,179 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:12:24,182 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:12:24,182 [Worker-268] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:12:24,183 [Worker-268] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-11 23:12:24,183 [Worker-268] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-11 23:12:24,189 [Worker-268] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:12:25,934 [Worker-275] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-11 23:12:27,205 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:12:27,208 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:12:27,211 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:12:27,212 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:12:27,212 [Worker-275] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-11 23:12:27,212 [Worker-275] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-11 23:12:27,218 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:15:42,727 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-failsafe-plugin/maven-metadata.xml
+2017-03-11 23:15:43,380 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-failsafe-plugin/maven-metadata.xml
+2017-03-11 23:15:43,941 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-failsafe-plugin/2.19.1/maven-failsafe-plugin-2.19.1.pom
+2017-03-11 23:15:44,382 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-failsafe-plugin/2.19.1/maven-failsafe-plugin-2.19.1.pom
+2017-03-11 23:15:44,578 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.19.1/surefire-2.19.1.pom
+2017-03-11 23:15:45,405 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.19.1/surefire-2.19.1.pom
+2017-03-11 23:15:45,592 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
+2017-03-11 23:15:46,558 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
+2017-03-11 23:15:46,752 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
+2017-03-11 23:15:47,096 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
+2017-03-11 23:15:47,313 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-failsafe-plugin/2.19.1/maven-failsafe-plugin-2.19.1.jar
+2017-03-11 23:15:48,077 [Worker-281] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-failsafe-plugin/2.19.1/maven-failsafe-plugin-2.19.1.jar
+2017-03-11 23:15:49,323 [Worker-281] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-11 23:15:51,049 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:15:51,052 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:15:51,055 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:15:51,056 [Worker-281] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:15:51,057 [Worker-281] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-11 23:15:51,057 [Worker-281] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-11 23:15:51,062 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:16:20,053 [Worker-283] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-11 23:16:21,037 [Worker-280] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/sonar-plugins/java/sonar-jacoco-listeners/${sonar-jacoco-listeners.version}/sonar-jacoco-listeners-${sonar-jacoco-listeners.version}.pom
+2017-03-11 23:16:21,040 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.sonar-plugins.java:sonar-jacoco-listeners:jar:${sonar-jacoco-listeners.version} is missing, no dependency information available
+2017-03-11 23:16:21,207 [Worker-283] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/sonar-plugins/java/sonar-jacoco-listeners/${sonar-jacoco-listeners.version}/sonar-jacoco-listeners-${sonar-jacoco-listeners.version}.pom
+2017-03-11 23:16:21,212 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.sonar-plugins.java:sonar-jacoco-listeners:jar:${sonar-jacoco-listeners.version} is missing, no dependency information available
+2017-03-11 23:16:21,916 [Worker-280] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/sonar-plugins/java/sonar-jacoco-listeners/${sonar-jacoco-listeners.version}/sonar-jacoco-listeners-${sonar-jacoco-listeners.version}.jar
+2017-03-11 23:16:22,078 [Worker-283] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/sonar-plugins/java/sonar-jacoco-listeners/${sonar-jacoco-listeners.version}/sonar-jacoco-listeners-${sonar-jacoco-listeners.version}.jar
+2017-03-11 23:16:22,262 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.sonar-plugins.java:sonar-jacoco-listeners:jar:${sonar-jacoco-listeners.version} is missing, no dependency information available
+2017-03-11 23:16:23,403 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:16:23,406 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:16:23,409 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:16:23,410 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:16:23,410 [Worker-283] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-11 23:16:23,410 [Worker-283] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-11 23:16:23,416 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:18:37,309 [Worker-281] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.sonar-plugins.java:sonar-jacoco-listeners:jar:${sonar-jacoco-listeners.version} is missing, no dependency information available
+2017-03-11 23:18:37,835 [Worker-280] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-11 23:18:37,939 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.sonar-plugins.java:sonar-jacoco-listeners:jar:${sonar-jacoco-listeners.version} is missing, no dependency information available
+2017-03-11 23:18:38,082 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.sonar-plugins.java:sonar-jacoco-listeners:jar:${sonar-jacoco-listeners.version} is missing, no dependency information available
+2017-03-11 23:18:38,875 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:18:38,879 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:18:38,883 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:18:38,883 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:18:38,884 [Worker-280] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-11 23:18:38,884 [Worker-280] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-11 23:18:38,890 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:18:39,599 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.sonar-plugins.java:sonar-jacoco-listeners:jar:${sonar-jacoco-listeners.version} is missing, no dependency information available
+2017-03-11 23:18:40,427 [Worker-276] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-11 23:18:40,535 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.sonar-plugins.java:sonar-jacoco-listeners:jar:${sonar-jacoco-listeners.version} is missing, no dependency information available
+2017-03-11 23:18:40,667 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.sonar-plugins.java:sonar-jacoco-listeners:jar:${sonar-jacoco-listeners.version} is missing, no dependency information available
+2017-03-11 23:18:41,555 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:18:41,558 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:18:41,561 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:18:41,562 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:18:41,562 [Worker-276] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-11 23:18:41,562 [Worker-276] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-11 23:18:41,569 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:19:54,852 [Worker-280] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-11 23:19:56,162 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:19:56,165 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:19:56,167 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:19:56,168 [Worker-280] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-11 23:19:56,169 [Worker-280] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-11 23:19:56,169 [Worker-280] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-11 23:19:56,175 [Worker-280] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:19:59,198 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:19:59,202 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-11 23:19:59,424 [Worker-283] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-11 23:19:59,428 [Worker-283] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-03-12 00:05:24,237 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@64a0aa{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2017-03-12 00:05:24,461 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6cbd57{/help,null,UNAVAILABLE}
+2017-03-12 00:09:31,488 [Thread-16] ERROR org.eclipse.jgit.util.FS - error: cannot spawn echo: No such file or directory
+error: unable to start editor 'echo'
+
+2017-03-12 00:09:45,091 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:09:45,100 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-12 00:09:45,109 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:09:45,110 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-03-12 00:10:57,056 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-12 00:10:58,442 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:10:58,444 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:10:58,447 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:10:58,448 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:10:58,450 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-12 00:10:58,451 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-12 00:10:58,457 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:11:33,227 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-12 00:11:34,193 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:11:34,196 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:11:34,199 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:11:34,200 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:11:34,200 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-12 00:11:34,200 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-12 00:11:34,205 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:12:26,790 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-12 00:12:27,708 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:12:27,711 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:12:27,713 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:12:27,714 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:12:27,715 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-12 00:12:27,715 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-12 00:12:27,721 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:15:16,505 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.6/maven-site-plugin-3.6.jar
+2017-03-12 00:15:17,413 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.6/maven-site-plugin-3.6.jar
+2017-03-12 00:15:18,345 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-12 00:15:19,878 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:15:19,980 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:15:19,987 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:15:19,989 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:15:20,018 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-12 00:15:20,018 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-12 00:15:20,029 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:15:21,700 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-12 00:15:22,693 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:15:22,696 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:15:22,698 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:15:22,699 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:15:22,699 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-12 00:15:22,699 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-12 00:15:22,704 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:18:48,573 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-12 00:18:52,343 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:18:52,377 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:18:52,380 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:18:52,381 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:18:52,381 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-12 00:18:52,381 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-12 00:18:52,387 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:19:09,693 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-12 00:19:10,583 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:19:10,585 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:19:10,587 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:19:10,588 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:19:10,588 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-12 00:19:10,589 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-12 00:19:10,593 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:19:22,269 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-12 00:19:23,075 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:19:23,077 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:19:23,080 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:19:23,080 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:19:23,081 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-12 00:19:23,081 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-12 00:19:23,085 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:19:46,561 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-12 00:19:47,475 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:19:47,478 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:19:47,480 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:19:47,481 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:19:47,482 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-12 00:19:47,482 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-12 00:19:47,487 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:21:15,453 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-12 00:21:16,353 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:21:16,355 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:21:16,358 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:21:16,359 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-12 00:21:16,359 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-12 00:21:16,359 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-12 00:21:16,364 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:28:02,620 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.utkcorp.carzonline:CarzOnlineClient:0.0.1-SNAPSHOT @ D:\CodeRipper\CarzOnline\CarzOnlineClient\pom.xml.
+2017-03-12 00:28:04,002 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:28:04,129 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-12 00:28:04,172 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-12 00:28:04,174 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-03-12 00:28:04,184 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CarzOnlineClient
+2017-03-12 00:28:04,184 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CarzOnlineClient
+2017-03-12 00:28:04,191 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

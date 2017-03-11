@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="CarzOnlineFacadeTest" project="CarzOnlineClient" tests="5" started="3" failures="0" errors="0" ignored="0">
-  <testsuite name="com.utkcorp.carzonline.client.controllers.test.CarzOnlineFacadeTest" incomplete="true">
-    <testcase name="checkLoginPageAvailable" classname="com.utkcorp.carzonline.client.controllers.test.CarzOnlineFacadeTest" time="0.0"/>
-    <testcase name="checkHomepageAvailable" classname="com.utkcorp.carzonline.client.controllers.test.CarzOnlineFacadeTest" time="0.0"/>
-    <testcase name="checkLoginFailurePageAvailable" classname="com.utkcorp.carzonline.client.controllers.test.CarzOnlineFacadeTest" incomplete="true"/>
-    <testcase name="checkLogoutPageAvailable" classname="com.utkcorp.carzonline.client.controllers.test.CarzOnlineFacadeTest" incomplete="true"/>
-    <testcase name="checkServiceDeniedPageAvailable" classname="com.utkcorp.carzonline.client.controllers.test.CarzOnlineFacadeTest" incomplete="true"/>
-  </testsuite>
-</testrun>
