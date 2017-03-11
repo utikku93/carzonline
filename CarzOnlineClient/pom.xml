@@ -92,6 +92,11 @@
 			<version>0.7.9</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.jacoco</groupId>
+			<artifactId>jacoco-maven-plugin</artifactId>
+			<version>0.7.9</version>
+		</dependency>
 
 
 
@@ -138,7 +143,7 @@
 								<goal>prepare-agent</goal>
 							</goals>
 							<configuration>
-								<destFile>${basedir}/target/coverage-reports/jacoco-ut.exec</destFile>								
+								<destFile>${basedir}/target/coverage-reports/jacoco-ut.exec</destFile>
 							</configuration>
 						</execution>
 						<execution>
