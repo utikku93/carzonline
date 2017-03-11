@@ -1,0 +1,6 @@
+package com.utkcorp.carzonline.client.controllers.test;
+
+@RunWith()
+public class CarzOnlineFacadeTest {
+
+}

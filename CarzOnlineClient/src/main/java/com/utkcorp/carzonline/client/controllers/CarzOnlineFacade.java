@@ -15,7 +15,7 @@ public class CarzOnlineFacade {
 	
 	@RequestMapping(path = "/loginFailure", method = RequestMethod.POST)
 	public String getLoginFailurePage() {
-		return "redirect:login";
+		return "redirect:/login";
 	}
 	
 	@RequestMapping(path = "/logout", method = RequestMethod.POST)
