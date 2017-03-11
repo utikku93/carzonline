@@ -1,5 +1,0 @@
-projectKey=com.utkcorp.carzonline:CarzOnline-PARENT
-serverUrl=https://sonarqube.com
-dashboardUrl=https://sonarqube.com/dashboard/index/com.utkcorp.carzonline:CarzOnline-PARENT
-ceTaskId=AVpVowIKykBoHULOHXzJ
-ceTaskUrl=https://sonarqube.com/api/ce/task?id=AVpVowIKykBoHULOHXzJ
