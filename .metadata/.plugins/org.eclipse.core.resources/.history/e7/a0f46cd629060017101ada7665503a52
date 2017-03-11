@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+	xmlns:beans="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security-4.2.xsd">
+	<http auto-config="true">
+		<csrf disabled="true" />
+		<intercept-url pattern="/**"
+			access="hasAnyRole('ROLE_USER','ROLE_ADMIN')" />
+		<form-login login-page="/login.do" username-parameter="name"
+			password-parameter="passphrase" authentication-success-forward-url="/homepage"
+			authentication-failure-url="/loginFailure" />
+		<access-denied-handler />
+		<logout invalidate-session="true" delete-cookies="JSESSIONID"
+			logout-url="/logout" />
+	</http>
+	<authentication-manager erase-credentials="true">
+		<authentication-provider>
+			<jdbc-user-service data-source-ref="userDB"
+				role-prefix="none" />
+		</authentication-provider>
+	</authentication-manager>
+</beans:beans>

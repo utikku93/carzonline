@@ -1,0 +1,8 @@
+package com.carzOnline.controllers;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class CarzOnlineFacade {
+
+}
